@@ -23,7 +23,4 @@ This project is divided into the following components:
    - Generated insights and actionable information that can drive strategic decisions
    - Provided recommendations to support the supermarket's goals for growth, efficiency, and customer satisfaction
 
-## Getting Started
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/power-bi-dashboard.git
+
